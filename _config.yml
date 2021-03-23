@@ -1,0 +1,147 @@
+# Site
+repository: simoasnaghi/resume
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Simone Asnaghi
+title: Electronics Engineer
+email: 
+
+website: www.github.com/Simone-Asnaghi/resume
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+baseurl: "resume"
+url: ""
+# Social links
+twitter_username: SimoAsnaghi
+github_username:  simoasnaghi
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+facebook_username: simone.asnaghi
+# flickr_username: jekyll
+instagram_username: simone_asnaghi
+linkedin_username: simone-asnaghi-45844a185
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Simone and I'm an Electronic Engineer. I have a bachelor degree in Electronics Engineering and I'm currently enrolled in the Master Course in Electronics Engineering at Politecnico di Milano.
+
+  My passions are <mark>technology</mark>,<mark>watching f1</mark> and <mark>listening to music</mark>
+
+content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Resume site page
+        link: github.com/simoasnaghi/resume
+        # link_text: Project Website
+        additional_links:
+          - title:  simoasnaghi/resume
+            icon: fab fa-github
+            url: github.com/simoasnaghi/resume
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is the page of my resume.
+        description: | # this will include new lines to allow paragraphs
+          I started this site to create a place where I could set my resume and show it online without the need for paper. Is also a way to practice some programming skills and lost some time.
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: T.P.L. Informatica S.R.L.
+        link: tplinformatica.com
+        # link_text: boringcompany.com
+        sub_title: I.A. Developer and Robotics Engineer.
+        caption: September 2019 - December 2019
+        quote: >
+          Internship period in Milano, Italy.
+        description: | # this will include new lines to allow paragraphs
+            Topics of the internship:
+              - develop of a system able to recognize an object by using a camera.
+              - creation of a mathematical model of robot's movement.
+              - build an executable script in Python.
+              - packed up an embedded system onboarding everything on a Raspberry Pi machine.
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Politecnico di Milano
+        caption: 2016 - 2020
+        sub_title: BSc Electronics Engineering (90/110)
+        quote: >
+          Established in 1863, Politecnico di Milano is one of the best known polytechnic universities in Italy. Since its foundation has formed some of Italy's finest engineers.
+        description: | # this will include new lines to allow paragraphs
+          During my time as a student @Polimi, I have learned all the technical and scientific skills that I need as an electronics engineer.
+          In the end, I could say that I am very proud of my academic course.
+      - layout: left
+        title: Politecnico di Milano
+        caption: 2020 - Present
+        sub_title: MSEE Electronics Engineering
+        quote: >
+          Established in 1863, Politecnico di Milano is one of the best known polytechnic universities in Italy. Since its foundation has formed some of Italy's finest engineers.
+        description: | # this will include new lines to allow paragraphs
+          I chose to enrol in the master course to improve my level of preparation as an engineer, and also to specialize myself in the power electronic branch, to work in the automotive field and, if possible, to be involved in a Formula 1 team.
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      I have a dream and that's to become an engineer for an F1 team. I enjoy watching tons of hours of F1 races (also old ones), of course when I don't have to study :)
+      Other passions:
+      - Disassemble old tech objects to see "into" them.
+      - Watching NBA and I'm of course a Lakers fan.
+      - Listening to music.
+  - title: Privacy and Copyright
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      This site contains no cookie and I don't collect any data linked to you. Since this page is hosted on Github's server they could collect some of your data,
+      like your IP address. All the information about their data collection policy could be found at the following link: [Github Terms of Service](https://docs.github.com/en/github/site-policy/github-terms-of-service).
+      All social media's logos are trademark's of their respective owners. No copyright infringement intended.
+
+#      Look at this cool image
+#      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
+# Footer
+footer_show_references: true
+references_title: Click on the email to contact me.
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+#plugins:
+# - jekyll-seo-tag
