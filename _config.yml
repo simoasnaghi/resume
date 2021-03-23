@@ -24,14 +24,10 @@ facebook_username: simone.asnaghi
 instagram_username: simone_asnaghi
 linkedin_username: simone-asnaghi-45844a185
 
-# Additional icon links
-#additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+additional_links:
+- title: Telegram profile
+  icon: fab fa-telegram-plane
+  url: t.me/Simone_Asnaghi
 
 
 # About Section
