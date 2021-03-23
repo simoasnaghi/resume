@@ -112,7 +112,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: Click on the email to contact me.
+#references_title: Click on the email to contact me.
 
 # Build settings
 remote_theme: sproogen/resume-theme
