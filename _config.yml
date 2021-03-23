@@ -101,7 +101,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I have a dream and that's to become an engineer for an F1 team. I enjoy watching tons of hours of F1 races (also old ones), of course when I don't have to study :smiley: .                                                                     
+      I have a dream and that's to become an engineer for an F1 team. I enjoy watching tons of hours of F1 races (also old ones), of course when I don't have to study.                                                                     
       Other passions:
       - Disassemble old tech objects to see "into" them.
       - Watching NBA and I'm of course a Lakers fan.
