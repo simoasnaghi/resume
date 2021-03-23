@@ -20,17 +20,9 @@ url: ""
 # Social links
 twitter_username: SimoAsnaghi
 github_username:  simoasnaghi
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
 facebook_username: simone.asnaghi
-# flickr_username: jekyll
 instagram_username: simone_asnaghi
 linkedin_username: simone-asnaghi-45844a185
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 #additional_links:
@@ -41,11 +33,6 @@ linkedin_username: simone-asnaghi-45844a185
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
@@ -67,9 +54,6 @@ content:
           - title:  simoasnaghi/resume
             icon: fab fa-github
             url: github.com/simoasnaghi/resume
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           This is the page of my resume.
         description: | # this will include new lines to allow paragraphs
@@ -81,7 +65,7 @@ content:
       - layout: left
         title: T.P.L. Informatica S.R.L.
         link: www.tplinformatica.com
-        # link_text: boringcompany.com
+        # link_text: tplinformatica.com
         sub_title: I.A. Developer and Robotics Engineer.
         caption: September 2019 - December 2019
         quote: >
@@ -129,8 +113,6 @@ content:
       like your IP address. All the information about their data collection policy could be found at the following link: [Github Terms of Service](https://docs.github.com/en/github/site-policy/github-terms-of-service).
       All social media's logos are trademark's of their respective owners. No copyright infringement intended.
 
-#      Look at this cool image
-#      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
@@ -143,5 +125,3 @@ sass:
   sass_dir: _sass
   style: compressed
 
-#plugins:
-# - jekyll-seo-tag
