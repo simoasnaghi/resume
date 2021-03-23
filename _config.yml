@@ -10,7 +10,7 @@ name: Simone Asnaghi
 title: Electronics Engineer
 email: 
 
-website: www.github.com/simoasnaghi/resume
+website: https://simoasnaghi.github.io/resume/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -53,7 +53,7 @@ content:
         additional_links:
           - title:  simoasnaghi/resume
             icon: fab fa-github
-            url: github.com/simoasnaghi/resume
+            url: https://simoasnaghi.github.io/resume/
         quote: >
           This is the page of my resume.
         description: | # this will include new lines to allow paragraphs
@@ -101,7 +101,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I have a dream and that's to become an engineer for an F1 team. I enjoy watching tons of hours of F1 races (also old ones), of course when I don't have to study :)
+      I have a dream and that's to become an engineer for an F1 team. I enjoy watching tons of hours of F1 races (also old ones), of course when I don't have to study :smile:
       Other passions:
       - Disassemble old tech objects to see "into" them.
       - Watching NBA and I'm of course a Lakers fan.
