@@ -54,7 +54,18 @@ content:
           This is the page of my resume.
         description: | # this will include new lines to allow paragraphs
           I started this site to create a place where I could set my resume and show it online without the need for paper. Is also a way to practice some programming skills and lost some time.
-
+        - layout: top-middle
+                title: Base Module VHDL
+                link: github.com/simoasnaghi/VHDL_base_module
+                # link_text: Project Website
+                additional_links:
+                  - title:  simoasnaghi/VHDL_base_module
+                    icon: fab fa-github
+                    url: https://github.com/simoasnaghi/VHDL_base_module
+                quote: >
+                  This is a repository with base module and gate written in VHDL language.
+                description: | # this will include new lines to allow paragraphs
+                  Module gates and memory element to build every circuit from this base module.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
