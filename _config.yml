@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Simone Asnaghi
 title: Electronics Engineer
-email: 
+email:
 
 website: https://simoasnaghi.github.io/resume/
 
@@ -108,7 +108,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I have a dream and that's to become an engineer for an F1 team. I enjoy watching tons of hours of F1 races (also old ones), of course when I don't have to study.                                                                     
+      I have a dream and that's to become an engineer for an F1 team. I enjoy watching tons of hours of F1 races (also old ones), of course when I don't have to study.
       Other passions:
       - Disassemble old tech objects to see "into" them.
       - Watching NBA and I'm of course a Lakers fan.
@@ -131,4 +131,3 @@ remote_theme: sproogen/resume-theme
 sass:
   sass_dir: _sass
   style: compressed
-
