@@ -23,6 +23,7 @@ github_username:  simoasnaghi
 facebook_username: simone.asnaghi
 instagram_username: simone_asnaghi
 linkedin_username: simone-asnaghi-45844a185
+gitlab-username: simoneasnaghi
 
 additional_links:
 - title: Telegram profile
@@ -42,6 +43,18 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: top-middle
+        title: Site page
+        link: simoasnaghi.github.io
+        # link_text: Project Website
+        additional_links:
+          - title:  My personal site
+            icon: fab fa-github
+            url: https://github.com/simoasnaghi/simoasnaghi.github.io
+        quote: >
+          This is my personal web page.
+        description: | # this will include new lines to allow paragraphs
+          This is my personal landing page.
       - layout: top-middle
         title: Resume site page
         link: github.com/simoasnaghi/resume
