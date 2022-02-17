@@ -37,9 +37,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Simone and I'm an Electronic Engineer. I have a bachelor degree in Electronics Engineering and I'm currently enrolled in the Master Course in Electronics Engineering at Politecnico di Milano.
+  Hi, my name’s Simone and I’m an Electronic Engineer. I have a bachelor’s degree in Electronics Engineering and I’m currently enrolled in the Master Course in Electronics Engineering at Politecnico di Milano.
 
-  My passions are <mark>technology</mark>,<mark>watching f1</mark> and <mark>listening to music</mark>
+  My passions are <mark>technology</mark>,<mark>watching f1</mark>, and <mark>listening to music</mark>
 
 content:
   - title: Projects # Title for the section
@@ -78,9 +78,9 @@ content:
             icon: fab fa-github
             url: https://github.com/simoasnaghi/VHDL_base_module
         quote: >
-          This is a repository with base module and gate written in VHDL language.
+          This is a repository with base modules and gates written in VHDL language.
         description: | # this will include new lines to allow paragraphs
-          Module gates and memory element to build every circuit from this base module.
+          Module gates and memory elements to build every circuit from this base module.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -94,7 +94,7 @@ content:
           Internship period in Milano, Italy.
         description: | # this will include new lines to allow paragraphs
             Topics of the internship:
-              - develop of a system able to recognize an object by using a camera.
+              - develop a system able to recognize an object by using a camera.
               - creation of a mathematical model of robot's movement.
               - build an executable script in Python.
               - packed up an embedded system onboarding everything on a Raspberry Pi machine.
@@ -107,23 +107,22 @@ content:
         caption: 2016 - 2020
         sub_title: BSc Electronics Engineering (90/110)
         quote: >
-          Established in 1863, Politecnico di Milano is one of the best known polytechnic universities in Italy. Since its foundation has formed some of Italy's finest engineers.
+          Established in 1863, Politecnico di Milano is one of the best-known polytechnic universities in Italy. Since its foundation has formed some of Italy's finest engineers.
         description: | # this will include new lines to allow paragraphs
-          During my time as a student @Polimi, I have learned all the technical and scientific skills that I need as an electronics engineer.
-          In the end, I could say that I am very proud of my academic course.
+          During my time as a student @Polimi, I have learned all the technical and scientific skills that I need as an electronics engineer. In the end, I could say that I am very proud of my academic course.
       - layout: left
         title: Politecnico di Milano
         caption: 2020 - Present
         sub_title: MSEE Electronics Engineering
         quote: >
-          Established in 1863, Politecnico di Milano is one of the best known polytechnic universities in Italy. Since its foundation has formed some of Italy's finest engineers.
+          Established in 1863, Politecnico di Milano is one of the best-known polytechnic universities in Italy. Since its foundation has formed some of Italy's finest engineers.
         description: | # this will include new lines to allow paragraphs
-          I chose to enrol in the master course to improve my level of preparation as an engineer, and also to specialize myself in the power electronic branch, to work in the automotive field and, if possible, to be involved in a Formula 1 team.
+          I chose to enroll in the master course to improve my level of preparation as an engineer, and also to specialize myself in the power electronic branch, to work in the automotive field, and, if possible, to be involved in a Formula 1 team.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I have a dream and that's to become an engineer for an F1 team. I enjoy watching tons of hours of F1 races (also old ones), of course when I don't have to study.
+      I have a dream and that’s to become an engineer for an F1 team. I enjoy watching tons of hours of F1 races (also old ones), of course when I don’t have to study. 
       Other passions:
       - Disassemble old tech objects to see "into" them.
       - Watching NBA and I'm of course a Lakers fan.
@@ -131,9 +130,10 @@ content:
   - title: Privacy and Copyright
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This site contains no cookie and I don't collect any data linked to you. Since this page is hosted on Github's server they could collect some of your data,
-      like your IP address. All the information about their data collection policy could be found at the following link: [Github Terms of Service](https://docs.github.com/en/github/site-policy/github-terms-of-service).
-      All social media's logos are trademark's of their respective owners. No copyright infringement intended.
+      This site contains no cookies and I don’t collect any data linked to you. 
+      Since this page is hosted on Github’s server they could collect some of your data, like your IP address. 
+      All the information about their data collection policy could be found at the following link: [Github Terms of Service](https://docs.github.com/en/github/site-policy/github-terms-of-service).
+      All social media logos are trademarks of their respective owners. No copyright infringement intended.
 
 
 # Footer
