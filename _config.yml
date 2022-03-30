@@ -135,7 +135,7 @@ content:
 
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 #references_title: Click on the email to contact me.
 
 # Build settings
