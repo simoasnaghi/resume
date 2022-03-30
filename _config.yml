@@ -13,15 +13,13 @@ email:
 website: https://simoasnaghi.github.io/resume/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 baseurl: "resume"
 url: ""
 # Social links
 twitter_username: SimoAsnaghi
 github_username:  simoasnaghi
-facebook_username: simone.asnaghi
-instagram_username: simone_asnaghi
 linkedin_username: simone-asnaghi-45844a185
 
 additional_links:
