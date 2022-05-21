@@ -79,18 +79,19 @@ content:
           This is a repository with base modules and gates written in VHDL language.
         description: | # this will include new lines to allow paragraphs
           Module gates and memory elements to build every circuit from this base module.
-       - layout: top-middle
-         title: Other projects
-         link: github.com/simoasnaghi/
-         # link_text: Other repositories
-         additional_links:
-           - title:  simoasnaghi/VHDL_base_module
-             icon: fab fa-github
-             url: https://github.com/simoasnaghi/VHDL_base_module
-         quote: >
-          To see other repositories please visit my github page.
-         description: | # this will include new lines to allow paragraphs
-          Please take time to visit my github page if you are interested in other repositories
+      - layout: top-middle
+        title: Other repositories
+        link: github.com/simoasnaghi/
+        # link_text: Project Website
+        additional_links:
+          - title:  simoasnaghi
+            icon: fab fa-github
+            url: https://github.com/simoasnaghi/
+        quote: >
+          Other repositories.
+        description: | # this will include new lines to allow paragraphs
+          If you are interested in other repositories, please visit my github page.
+      
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
