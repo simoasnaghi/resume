@@ -81,12 +81,12 @@ content:
           Module gates and memory elements to build every circuit from this base module.
       - layout: top-middle
         title: Other repositories
-        link: github.com/simoasnaghi/
+        link: github.com/simoasnaghi?tab=repositories
         # link_text: Project Website
         additional_links:
           - title:  simoasnaghi
             icon: fab fa-github
-            url: https://github.com/simoasnaghi/
+            url: https://github.com/simoasnaghi?tab=repositories
         quote: >
           Other repositories.
         description: | # this will include new lines to allow paragraphs
